@@ -4,3 +4,6 @@
 
 ## Interactor - single purpose object (single responsibility principle)
 [A couple of words about interactors in Rails - Ivan Shamatov](https://mkdev.me/en/posts/a-couple-of-words-about-interactors-in-rails)
+
+## State patterns:
+[Railscasts PRO #392 A Tour of State Machines - Ryan Bates](https://www.youtube.com/watch?v=ZJ93c-jklCg)
