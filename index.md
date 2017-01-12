@@ -27,6 +27,9 @@
   - gem 'simplecov'            # Enables coverage analysis of code.
   - gem 'rubocop'              # Static code analyzer
 
+## Articles related to KISS principle:
+[Tell don't ask - Thoughtbot](https://robots.thoughtbot.com/tell-dont-ask)
+
 ## Single Responsibility Principle:
 
 ### Interactor - single purpose object
