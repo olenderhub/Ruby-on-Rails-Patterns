@@ -4,6 +4,15 @@
 # Sandi Metz' 4 rules 
 [Sandi Metz' Rules For Developers - Caleb Thompson](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
 
+# Monitoring code - gems to assist in monitoring code quality by Richard Seviora
+  - gem 'traceroute'           # Checks for undefined routes and unreachable actions.
+  - gem 'bullet'               # Checks for query optimizations.
+  - gem 'rails_best_practices' # Checks for code optimization.
+  - gem 'rubycritic'           # Checks for code optimization.
+  - gem 'sandi_meter'          # Checks for compliance to Sandi Metz's rules for developers.
+  - gem 'simplecov'            # Enables coverage analysis of code.
+  - gem 'rubocop'              # Static code analyzer
+
 ## Single responsibility principle:
 
 ### Interactor - single purpose object
