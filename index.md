@@ -1,4 +1,7 @@
-## 4 rules (100-line classes, five lines per method, four method arguments, only instantiate one object in the controller)
+# SOLID - First 5 Principles of Object Oriented Design by Robert C. Martin
+[Back to Basics: SOLID - Britt Ballard](https://robots.thoughtbot.com/back-to-basics-solid)
+
+# Sandi Metz' 4 rules 
 [Sandi Metz' Rules For Developers - Caleb Thompson](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
 
 ## Single responsibility principle:
