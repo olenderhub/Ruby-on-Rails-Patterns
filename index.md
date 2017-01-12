@@ -1,10 +1,13 @@
-# SOLID - First 5 Principles of Object Oriented Design by Robert C. Martin
+# SOLID - First 5 Principles of OOD by Robert C. Martin
 [Back to Basics: SOLID - Britt Ballard](https://robots.thoughtbot.com/back-to-basics-solid)
 
 # Sandi Metz' 4 rules 
 [Sandi Metz' Rules For Developers - Caleb Thompson](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)
 
-# Monitoring code - gems to assist in monitoring code quality by Richard Seviora
+# The Ruby Style Guide
+[The Ruby Style Guide - Bozhidar Batsov](https://github.com/bbatsov/ruby-style-guide)
+
+# Monitoring code gems - list by Richard Seviora
   - gem 'traceroute'           # Checks for undefined routes and unreachable actions.
   - gem 'bullet'               # Checks for query optimizations.
   - gem 'rails_best_practices' # Checks for code optimization.
@@ -13,7 +16,7 @@
   - gem 'simplecov'            # Enables coverage analysis of code.
   - gem 'rubocop'              # Static code analyzer
 
-## Single responsibility principle:
+## Single Responsibility Principle:
 
 ### Interactor - single purpose object
 [A couple of words about interactors in Rails - Ivan Shamatov](https://mkdev.me/en/posts/a-couple-of-words-about-interactors-in-rails)
