@@ -1,9 +1,15 @@
+# Single responsibility principle:
+
+## Interactor - single purpose object
+[A couple of words about interactors in Rails - Ivan Shamatov](https://mkdev.me/en/posts/a-couple-of-words-about-interactors-in-rails)
+
+## Service objects
+[Railscasts PRO #398 Service Objects - Ryan Bates](https://www.youtube.com/watch?v=uIp6N89PH-c)
+
+# Other patterns
 ## Memoization patterns:
 
 [4 Simple Memoization Patterns in Ruby (and One Gem) - Justin Weiss](http://www.justinweiss.com/articles/4-simple-memoization-patterns-in-ruby-and-one-gem/)
-
-## Interactor - single purpose object (single responsibility principle)
-[A couple of words about interactors in Rails - Ivan Shamatov](https://mkdev.me/en/posts/a-couple-of-words-about-interactors-in-rails)
 
 ## State patterns:
 [Railscasts PRO #392 A Tour of State Machines - Ryan Bates](https://www.youtube.com/watch?v=ZJ93c-jklCg)
