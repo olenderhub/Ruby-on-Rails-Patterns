@@ -7,9 +7,13 @@
 # The Ruby Style Guide
 [The Ruby Style Guide - Bozhidar Batsov](https://github.com/bbatsov/ruby-style-guide)
 
-# Best Ruby and Ruby On Rails practices by Thoughtbot
+# Best Ruby and RoR practices by Thoughtbot
 [Best Ruby practices - Thoughtbot](https://github.com/thoughtbot/guides/tree/master/best-practices#ruby)
+
 [Best Ruby on Rails practices - Thoughtbot](https://github.com/thoughtbot/guides/tree/master/best-practices#rails)
+
+# Guide how to do code review by Thoughtbot
+[how to do code review - Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
 
 # Monitoring code gems - list by Richard Seviora
   - gem 'traceroute'           # Checks for undefined routes and unreachable actions.
