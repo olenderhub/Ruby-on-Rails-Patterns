@@ -1,3 +1,6 @@
+# KISS principle
+[KISS principle - U.S. Navy](https://en.wikipedia.org/wiki/KISS_principle)
+
 # SOLID - First 5 Principles of OOD by Robert C. Martin
 [Back to Basics: SOLID - Britt Ballard](https://robots.thoughtbot.com/back-to-basics-solid)
 
