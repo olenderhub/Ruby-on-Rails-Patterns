@@ -15,8 +15,8 @@
 
 [Best Ruby on Rails practices - Thoughtbot](https://github.com/thoughtbot/guides/tree/master/best-practices#rails)
 
-# Guide how to do code review by Thoughtbot
-[how to do code review - Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
+# Guide how to do the code review by Thoughtbot
+[how to do the code review - Thoughtbot](https://github.com/thoughtbot/guides/tree/master/code-review)
 
 # Monitoring code gems - list by Richard Seviora
   - gem 'traceroute'           # Checks for undefined routes and unreachable actions.
@@ -26,6 +26,18 @@
   - gem 'sandi_meter'          # Checks for compliance to Sandi Metz's rules for developers.
   - gem 'simplecov'            # Enables coverage analysis of code.
   - gem 'rubocop'              # Static code analyzer
+
+# Awesome Rails
+[Awesome Rails](https://github.com/ekremkaraca/awesome-rails)
+
+# Awesome Rails Gem
+[Awesome Rails Gem](https://github.com/hothero/awesome-rails-gem)
+
+# Awesome Ruby
+[Awesome Ruby](https://github.com/markets/awesome-ruby)
+
+# Awesome Ruby Events
+[Awesome Ruby Events](https://github.com/planetruby/awesome-events) 
 
 ## Articles related to KISS principle:
 [Tell don't ask - Thoughtbot](https://robots.thoughtbot.com/tell-dont-ask)
