@@ -37,7 +37,10 @@
 [Awesome Ruby](https://github.com/markets/awesome-ruby)
 
 # Awesome Ruby Events
-[Awesome Ruby Events](https://github.com/planetruby/awesome-events) 
+[Awesome Ruby Events](https://github.com/planetruby/awesome-events)
+
+# Ruby Weekly
+[Ruby Weekly](http://rubyweekly.com/)
 
 ## Articles related to KISS principle:
 [Tell don't ask - Thoughtbot](https://robots.thoughtbot.com/tell-dont-ask)
