@@ -27,6 +27,9 @@
   - gem 'simplecov'            # Enables coverage analysis of code.
   - gem 'rubocop'              # Static code analyzer
 
+# Security
+[Ruby on Rails Security Guide](http://guides.rubyonrails.org/security.html)
+
 # Awesome Rails
 [Awesome Rails](https://github.com/ekremkaraca/awesome-rails)
 
