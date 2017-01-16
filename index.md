@@ -45,6 +45,9 @@
 # Ruby Weekly
 [Ruby Weekly](http://rubyweekly.com/)
 
+# Ruby on Rails vs Ruby Quiz
+[railshurts - quiz](http://railshurts.com/quiz/)
+
 ## Articles related to KISS principle:
 [Tell don't ask - Thoughtbot](https://robots.thoughtbot.com/tell-dont-ask)
 
