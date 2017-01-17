@@ -48,6 +48,9 @@
 # Ruby on Rails vs Ruby Quiz
 [railshurts - quiz](http://railshurts.com/quiz/)
 
+# Conferences - videos
+[RailsConf 2014 - Domain Driven Design and Hexagonal Architecture with Rails - by Eric Roberts and Declan Whelan](https://www.youtube.com/watch?v=_rbF97T4480)
+
 ## Articles related to KISS principle:
 [Tell don't ask - Thoughtbot](https://robots.thoughtbot.com/tell-dont-ask)
 
