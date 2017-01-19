@@ -70,3 +70,6 @@
 
 ### State patterns:
 [Railscasts PRO #392 A Tour of State Machines - Ryan Bates](https://www.youtube.com/watch?v=ZJ93c-jklCg)
+
+### Decorator pattern
+[Draper - gem for decorate](https://github.com/drapergem/draper)
