@@ -54,6 +54,9 @@
 ## Articles related to KISS principle:
 [Tell don't ask - Thoughtbot](https://robots.thoughtbot.com/tell-dont-ask)
 
+## Event sourcing & CQRS conception
+[Building an Event Sourced application using rails_event_store - Arkency](http://blog.arkency.com/2015/05/building-an-event-sourced-application-using-rails-event-store/)
+
 ## Single Responsibility Principle:
 
 ### Interactor - single purpose object
@@ -71,5 +74,5 @@
 ### State patterns:
 [Railscasts PRO #392 A Tour of State Machines - Ryan Bates](https://www.youtube.com/watch?v=ZJ93c-jklCg)
 
-### Decorator pattern
+### Decorator pattern:
 [Draper - gem for decorate](https://github.com/drapergem/draper)
