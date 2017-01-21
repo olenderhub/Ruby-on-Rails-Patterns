@@ -76,3 +76,6 @@
 
 ### Decorator pattern:
 [Draper - gem for decorate](https://github.com/drapergem/draper)
+
+### Presenter pattern:
+[Railscasts PRO #287 Presenters from Scratch - Ryan Bates](https://www.youtube.com/watch?v=QHsq6aFlP0U)
