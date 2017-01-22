@@ -79,3 +79,6 @@
 
 ### Presenter pattern:
 [Railscasts PRO #287 Presenters from Scratch - Ryan Bates](https://www.youtube.com/watch?v=QHsq6aFlP0U)
+
+### Form object pattern:
+[Railscasts PRO #416 Form Objects - Ryab Bates](https://www.youtube.com/watch?v=SvL_aZt3zyU)
