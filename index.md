@@ -82,3 +82,6 @@
 
 ### Form object pattern:
 [Railscasts PRO #416 Form Objects - Ryab Bates](https://www.youtube.com/watch?v=SvL_aZt3zyU)
+
+### Repository pattern
+[Why is your Rails application still coupled to ActiveRecord? - Kamil Lelonek](https://blog.lelonek.me/why-is-your-rails-application-still-coupled-to-activerecord-efe34d657c91#.lhjh11268)
