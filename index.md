@@ -85,3 +85,6 @@
 
 ### Repository pattern
 [Why is your Rails application still coupled to ActiveRecord? - Kamil Lelonek](https://blog.lelonek.me/why-is-your-rails-application-still-coupled-to-activerecord-efe34d657c91#.lhjh11268)
+
+### Null object pattern
+[https://robots.thoughtbot.com/rails-refactoring-example-introduce-null-object](https://robots.thoughtbot.com/rails-refactoring-example-introduce-null-object)
