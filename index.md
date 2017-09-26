@@ -67,6 +67,9 @@
 
 ## Other patterns:
 
+### Law of Demeter and delegate
+[Rails - Law of Demeter and delegate - Sergii Makagon](http://rubyblog.pro/2016/09/rails-demeters-law-and-delegate)
+
 ### Memoization patterns:
 
 [4 Simple Memoization Patterns in Ruby (and One Gem) - Justin Weiss](http://www.justinweiss.com/articles/4-simple-memoization-patterns-in-ruby-and-one-gem/)
